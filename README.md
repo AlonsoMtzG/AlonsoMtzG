@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Alonso García, passionate about technology and programming.
 
-- :book: I'm studying Computer Technology Engineering at _Tecnológico de Monterrey_ in Guadalajara.
+- :book: I studied Computer Technology Engineering at _Tecnológico de Monterrey_ in Guadalajara.
 - :hammer_and_wrench: I'm working on projects to gain experience and knowledge.
 - :iphone: I'm especially interested in Front End Development
 - :computer: I'm looking to collaborate in more projects to help, contribute and learn at the same time.
